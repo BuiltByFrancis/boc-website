@@ -1,0 +1,7 @@
+export { default as About } from "./home/About"
+export { default as Contact } from "./home/Contact"
+export { default as Team } from "./home/Team"
+export { default as Welcome } from "./home/Welcome"
+export { default as Footer } from "./shared/Footer"
+export { default as Loader } from "./shared/Loader"
+export { default as Navbar } from "./shared/Navbar"
